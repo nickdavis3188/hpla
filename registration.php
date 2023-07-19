@@ -117,12 +117,13 @@ require("./url/url.php");
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact section-bg">
       <div class="container">
-        <br>
-        <br>
+
         <!--  -->
         <?php
         if (isset($_REQUEST['msg'])) {
         ?>
+          <br>
+          <br>
           <div class="alert alert-success alert-dismissible fade show" role="alert">
             <strong>Registration successful!</strong>.
             <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
@@ -130,6 +131,8 @@ require("./url/url.php");
         <?php
         } else if (isset($_REQUEST['fail'])) {
         ?>
+          <br>
+          <br>
           <div class="alert alert-danger alert-dismissible fade show" role="alert">
             <strong><?php echo ($_REQUEST["fail"]) ?></strong>.
             <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>

@@ -1,6 +1,6 @@
 <?php
 // home
-$home = "/hpla/index.php";
+$home = "/index.php";
 
 // form
-$form = "/hpla/registration.php";
+$form = "/registration.php";

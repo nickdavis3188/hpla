@@ -47,7 +47,7 @@ require("./url/url.php");
       <div class="logo me-auto">
         <!-- <h1><a href="index.html">HIS PRESENCE LIFE ACADEMY</a></h1> -->
         <!-- Uncomment below if you prefer to use an image logo -->
-        <a href="index.html"><img src="assets/img/logo.jpg" alt="" class="img-fluid"></a>
+        <a href="index.php"><img src="assets/img/logo.jpg" alt="" class="img-fluid"></a>
       </div>
 
       <nav id="navbar" class="navbar order-last order-lg-0">
@@ -121,7 +121,7 @@ require("./url/url.php");
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-droplet"></i></div>
-              <h4><a href="">Oil & Gas - Digital Economy</a></h4>
+              <h4><a href="">Oil & Gas</a></h4>
               <p>Oil & Gas in the Digital Economy highlights the transformative impact of digital technologies on the oil and gas sector, reshaping traditional practices and driving efficiencies across the entire value chain.</p>
             </div>
           </div>

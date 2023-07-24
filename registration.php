@@ -180,8 +180,12 @@ require("./url/url.php");
                     <select class="form-control" id="exampleFormControlSelect1" name="selectedCourse" required>
                       <option selected>Pleas Select ...</option>
                       <option value="Pediatrics">Pediatrics</option>
+                      <option value="Entrepreneurship">Entrepreneurship</option>
+                      <option value="Oil & Gas">Oil & Gas</option>
+                      <option value="Digital Economy">Digital Economy</option>
                       <option value="Data Science">Data Science</option>
                       <option value="Business Analysis">Business Analysis</option>
+                      <option value="Branding And Digital Communication">Branding And Digital Communication</option>
                     </select>
                   </div>
                 </div>

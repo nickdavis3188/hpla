@@ -47,7 +47,7 @@ require("./url/url.php");
       <div class="logo me-auto">
         <!-- <h1><a href="/index.html">HIS PRESENCE LIFE ACADEMY</a></h1> -->
         <!-- Uncomment below if you prefer to use an image logo -->
-        <a href="index.php"><img src="assets/img/logo.jpg" alt="" class="img-fluid"></a>
+        <a href="index.php"><img src="assets/img/logo2.png" alt="" class="img-fluid"></a>
       </div>
 
       <nav id="navbar" class="navbar order-last order-lg-0">

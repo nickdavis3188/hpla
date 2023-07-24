@@ -47,7 +47,7 @@ require("./url/url.php");
       <div class="logo me-auto">
         <!-- <h1><a href="index.html">HIS PRESENCE LIFE ACADEMY</a></h1> -->
         <!-- Uncomment below if you prefer to use an image logo -->
-        <a href="index.php"><img src="assets/img/logo.jpg" alt="" class="img-fluid"></a>
+        <a href="index.php"><img src="assets/img/logo2.png" alt="" class="img-fluid"></a>
       </div>
 
       <nav id="navbar" class="navbar order-last order-lg-0">
@@ -93,7 +93,7 @@ require("./url/url.php");
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="container text-center text-md-left" data-aos="fade-up">
       <h1>Welcome to <span>HIS PRESENCE LIFE ACADEMY</span></h1>
-      <h2>Let the experts equip you from tomorrow</h2>
+      <h2>Let the experts equip you for tomorrow</h2>
       <a href="#about" class="btn-get-started scrollto">Get Started</a>
     </div>
   </section><!-- End Hero -->
